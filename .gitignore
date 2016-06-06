@@ -1,0 +1,7 @@
+app/config
+.idea/
+yedek/
+app/storage/
+public/uploads
+public/uploads_sozlesme
+grand/
